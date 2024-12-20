@@ -1,0 +1,1 @@
+# when using the newspaper3k library, need to install lxml_html_clean as well as it is a seperate module

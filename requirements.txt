@@ -1,0 +1,3 @@
+newspaper3k
+streamlit
+lxml_html_clean
